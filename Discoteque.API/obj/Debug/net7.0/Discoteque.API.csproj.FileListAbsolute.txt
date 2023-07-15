@@ -508,3 +508,7 @@ C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.API\obj\Debug\net7.
 C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.API\obj\Debug\net7.0\Discoteque.API.pdb
 C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.API\obj\Debug\net7.0\Discoteque.API.genruntimeconfig.cache
 C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.API\obj\Debug\net7.0\ref\Discoteque.API.dll
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.API\bin\Debug\net7.0\Discoteque.Business.dll
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.API\bin\Debug\net7.0\Discoteque.Data.dll
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.API\bin\Debug\net7.0\Discoteque.Data.pdb
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.API\bin\Debug\net7.0\Discoteque.Business.pdb

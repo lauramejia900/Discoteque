@@ -10,3 +10,15 @@ C:\Users\lxdx1\desktop\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Da
 C:\Users\lxdx1\desktop\Discoteque\Discoteque.Data\obj\Debug\net7.0\refint\Discoteque.Data.dll
 C:\Users\lxdx1\desktop\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.pdb
 C:\Users\lxdx1\desktop\Discoteque\Discoteque.Data\obj\Debug\net7.0\ref\Discoteque.Data.dll
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.deps.json
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.dll
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\bin\Debug\net7.0\Discoteque.Data.pdb
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.AssemblyReference.cache
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfoInputs.cache
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.AssemblyInfo.cs
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.csproj.CoreCompileInputs.cache
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.dll
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\obj\Debug\net7.0\refint\Discoteque.Data.dll
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\obj\Debug\net7.0\Discoteque.Data.pdb
+C:\Users\lxdx1\Desktop\Bootcamp dotnet\Discoteque\Discoteque.Data\obj\Debug\net7.0\ref\Discoteque.Data.dll

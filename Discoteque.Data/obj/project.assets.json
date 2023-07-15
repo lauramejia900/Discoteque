@@ -553,11 +553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lxdx1\\desktop\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+      "projectUniqueName": "C:\\Users\\lxdx1\\Desktop\\Bootcamp dotnet\\Discoteque\\Discoteque.DATA\\Discoteque.Data.csproj",
       "projectName": "Discoteque.Data",
-      "projectPath": "C:\\Users\\lxdx1\\desktop\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+      "projectPath": "C:\\Users\\lxdx1\\Desktop\\Bootcamp dotnet\\Discoteque\\Discoteque.DATA\\Discoteque.Data.csproj",
       "packagesPath": "C:\\Users\\lxdx1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lxdx1\\desktop\\Discoteque\\Discoteque.Data\\obj\\",
+      "outputPath": "C:\\Users\\lxdx1\\Desktop\\Bootcamp dotnet\\Discoteque\\Discoteque.DATA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lxdx1\\AppData\\Roaming\\NuGet\\NuGet.Config"

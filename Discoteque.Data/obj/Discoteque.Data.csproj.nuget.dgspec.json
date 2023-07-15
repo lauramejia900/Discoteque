@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lxdx1\\desktop\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {}
+    "C:\\Users\\lxdx1\\Desktop\\Bootcamp dotnet\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lxdx1\\desktop\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
+    "C:\\Users\\lxdx1\\Desktop\\Bootcamp dotnet\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lxdx1\\desktop\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectUniqueName": "C:\\Users\\lxdx1\\Desktop\\Bootcamp dotnet\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
         "projectName": "Discoteque.Data",
-        "projectPath": "C:\\Users\\lxdx1\\desktop\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
+        "projectPath": "C:\\Users\\lxdx1\\Desktop\\Bootcamp dotnet\\Discoteque\\Discoteque.Data\\Discoteque.Data.csproj",
         "packagesPath": "C:\\Users\\lxdx1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lxdx1\\desktop\\Discoteque\\Discoteque.Data\\obj\\",
+        "outputPath": "C:\\Users\\lxdx1\\Desktop\\Bootcamp dotnet\\Discoteque\\Discoteque.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lxdx1\\AppData\\Roaming\\NuGet\\NuGet.Config"
